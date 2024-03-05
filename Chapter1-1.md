@@ -15,14 +15,14 @@
 ```
 adenoma 腺瘤 （aden/o + oma = adenoma）
 
-The suffix **-oma** means tumor 肿瘤 or mass 肿块
+The suffix <-oma> means tumor 肿瘤 or mass 肿块
 ```
 
 
 ```
 adenitis 腺炎 （aden/o + itis = adenitis)
 
-The suffix **-itis** means inflammation 炎症
+The suffix <-itis> means inflammation 炎症
 ```
 
 ### 2. arthr/o joint (关节)
@@ -36,7 +36,7 @@ arthritis 关节炎 （arthr/o + itis = arthritis）
 ```
 biopsy 组织活检 （bi/o + opsy = biopsy）
 
-The suffix **-opsy** means process of viewing.
+The suffix <-opsy> means process of viewing.
 ```
 Liveing tissue(活组织) is removed from the body and viewe under a microscope.
 
@@ -59,7 +59,7 @@ cardiology 心脏病学 （cardi/o + logy = cardiology）
 ```
 cephalic 头的 （cephal/o + ic = cephalic）
 
-The suffix **-ic** means pertaining to.
+The suffix <-ic> means pertaining to.
 ```
 
 ### 7. cerebr/o cerebrum (大脑) （The largest part of the brain）
@@ -67,7 +67,7 @@ The suffix **-ic** means pertaining to.
 ```
 cerebral 大脑的 （cerebr/o + al = cerebral）
 
-The suffix **-al** means pertaining to.
+The suffix <-al> means pertaining to.
 ```
 
 > head 头 > brain 脑 > cerebrum 大脑 （大脑是脑最大的一部分）
@@ -78,9 +78,9 @@ The suffix **-al** means pertaining to.
 incision 切口（in + cis/o + ion = incision) 
 excision 切除 (ex + cis/o + ion = excision)
 
-The prefix **in-** means into 
-The prefix **ex-** means out 
-The suffix **-ion** means process 
+The prefix <in-> means into 
+The prefix <ex-> means out 
+The suffix <-ion> means process 
 ```
 
 ### 9.crin/o to secrete (分泌)
@@ -88,7 +88,7 @@ The suffix **-ion** means process
 ```
 endocrine glands 内分泌腺
 
-The prefix **endo-** means within; 
+The prefix <endo-> means within; 
 ```
 
 Endocrine glands (e.g thyroid 甲状腺，pituitary 垂体， and adrenal glands 肾上腺) secrete hormones （激素） directly into the bloodstream (血液)
@@ -100,8 +100,8 @@ Other glands, called exocrine glands 外分泌腺，release 释放 their secreti
 ```
 cystoscopy 膀胱镜检查 （cyst/o + scopy = cystoscopy）
 
-The suffix **-scopy** is a complex suffix 复合后缀 that includes the root scop, meaning visual examination
-The final suffix **-y** meaning process.
+The suffix <-scopy> is a complex suffix 复合后缀 that includes the root scop, meaning visual examination
+The final suffix <-y> meaning process.
 ```
 
 ### 11. cyt/o cell (细胞)
