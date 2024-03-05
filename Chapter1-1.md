@@ -47,6 +47,8 @@ The suffix **-ic** means pertaining to.
 cerebral 大脑的 （cerebr/o + al = cerebral）\
 The suffix **-al** means pertaining to.
 
+head 头 > brain 脑 > cerebrum 大脑 （大脑是脑最大的一部分）
+
 #### 8. cis/o to cut (切)
 
 incision 切口（in + cis/o + ion = incision) \
@@ -54,6 +56,23 @@ excision 切除 (ex + cis/o + ion = excision) \
 The prefix **in-** means into \
 The prefix **ex-** means out \
 The suffix **-ion** means process \
+
+#### 9.crin/o to secrete (分泌)
+
+endocrine glands 内分泌腺
+
+The prefix **endo-** means within; endocrine glands (e.g thyroid 甲状腺，pituitary 垂体， and adrenal glands 肾上腺) secrete hormones （激素） directly into the bloodstream (血液)
+
+Other glands, called exocrine glands 外分泌腺，release 释放 their secretions 分泌物 （e.g. saliva, sweat, tears, milk) through tubes(ducts) to the outside of the body.
+
+#### 10.cyst/o urinary bladder (膀胱)
+
+cystoscopy 膀胱镜检查 （cyst/o + scopy = cystoscopy）
+The suffix **-scopy** is a complex suffix 复合后缀 that includes the root scop, meaning visual examination, and the final suffix **-y** meaning process.
+
+#### 11. cyt/o cell (细胞)
+
+cytology 细胞学 （cyt/o + logy = cytology）
 
 
 
