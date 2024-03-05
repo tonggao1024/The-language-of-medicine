@@ -12,14 +12,59 @@
 
 #### 1. aden/o gland (腺体)
 
-adenoma 腺瘤 （aden/o + oma = adenoma）
+adenoma 腺瘤 （aden/o + oma = adenoma）\
 The suffix **-oma** means tumor 肿瘤 or mass 肿块
 
-adenitis 腺炎 （aden/o + itis = adenitis）
-The duffix **-itis** means inflammation 炎症
+adenitis 腺炎 （aden/o + itis = adenitis）\
+The suffix **-itis** means inflammation 炎症
 
 #### 2. arthr/o joint (关节)
 
 arthritis 关节炎 （arthr/o + itis = arthritis）
+
+#### 3. bi/o life (生命)
+
+biopsy 组织活检 （bi/o + opsy = biopsy）\
+The suffix **-opsy** means process of viewing. \
+Liveing tissue(活组织) is removed from the body and viewe under a microscope.
+
+#### 4. carcin/o cancerous （癌的），cancer （癌）
+
+carcinoma 癌症 （carcin/o + oma = carcinoma）\
+A carcinoma is a cancerous tumor. Carcinomas grow from epithelial cells 上皮细胞 that cover the outside of the body and line 构成...的内膜/内壁/内皮 organs,cavities 腔体， and tubes within the body.
+
+#### 5. cardi/o heart (心脏)
+
+cardiology 心脏病学 （cardi/o + logy = cardiology）
+
+#### 6. cephal/o head (头)
+
+cephalic 头的 （cephal/o + ic = cephalic）\
+The suffix **-ic** means pertaining to.
+
+#### 7. cerebr/o cerebrum (大脑) （The largest part of the brain）
+
+cerebral 大脑的 （cerebr/o + al = cerebral）\
+The suffix **-al** means pertaining to.
+
+#### 8. cis/o to cut (切)
+
+incision 切口（in + cis/o + ion = incision) \
+excision 切除 (ex + cis/o + ion = excision) \
+The prefix **in-** means into \
+The prefix **ex-** means out \
+The suffix **-ion** means process \
+
+
+
+
+
+
+
+
+
+
+
+
 
 
