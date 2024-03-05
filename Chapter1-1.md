@@ -100,7 +100,8 @@ Other glands, called exocrine glands 外分泌腺，release 释放 their secreti
 ```
 cystoscopy 膀胱镜检查 （cyst/o + scopy = cystoscopy）
 
-The suffix **-scopy** is a complex suffix 复合后缀 that includes the root scop, meaning visual examination, and the final suffix **-y** meaning process.
+The suffix **-scopy** is a complex suffix 复合后缀 that includes the root scop, meaning visual examination
+The final suffix **-y** meaning process.
 ```
 
 ### 11. cyt/o cell (细胞)
