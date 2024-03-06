@@ -8,3 +8,5 @@ hypdermic 皮下的 （hypo + derm/o + ic = hypdermic）
 
 The prefix <hypo-> means under of below
 ```
+
+### 13. electr/o electricity 电
