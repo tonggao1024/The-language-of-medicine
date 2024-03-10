@@ -63,7 +63,11 @@ hypoglycemia 低血糖症 （hypo + glyc/o + emia = hypoglycemia）
 The prefix <hyper-> neabs excessive, above, or more than normal. The suffix <-emia> means blood condition 血症
 ```
 
+### 19.gynec/o women 妇女，female 女性
 
+```
+gynecology 妇科学 （gynec/o + logy = gynecology）
+```
 
 
 
