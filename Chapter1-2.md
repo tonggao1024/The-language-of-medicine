@@ -95,7 +95,7 @@ hepatitis 肝炎 (hepat/o + itis = hepatitis)
 ```
 iatrogenic 医源性的 （iatr/o + genic = iatrogenic）
 
-The suffix <-genic> means pertaining to prducing, produced by, or produced in.
+The suffix <-genic> means pertaining to producing, produced by, or produced in.
 ```
 
 Iatrogenic conditions are  adverse effects 不良影响 that result from treatment of intervention 介入 by a physician.
