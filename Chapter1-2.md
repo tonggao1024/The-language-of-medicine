@@ -69,5 +69,70 @@ The prefix <hyper-> neabs excessive, above, or more than normal. The suffix <-em
 gynecology 妇科学 （gynec/o + logy = gynecology）
 ```
 
+### 20.hemat/o, hem/o blood 血液
+
+```
+hematology 血液学
+hematoma 血肿 （hemat/o + oma = hematoma）
+
+<-oma> means a mass or collection of blood,rathen than a growth of cells(tumor)
+```
+
+A hematoma forms when blood escapes from blood vessels 血管 and collects as a a clot 血凝块 in a cavity or organ or under the skin.
+
+```
+hemoglobin 血红蛋白 （hem/o + globin = hemoglobin）
+
+The suffix <-globin> means protein 蛋白质. Hemoglobin carries oxygen in red blood cells
+```
+
+### 21.hepat/o liver 肝脏
+```
+hepatitis 肝炎 (hepat/o + itis = hepatitis)
+```
+
+### 22.iatr/o treatment 治疗，physician 医生
+```
+iatrogenic 医源性的 （iatr/o + genic = iatrogenic）
+
+The suffix <-genic> means pertaining to prducing, produced by, or produced in.
+```
+
+Iatrogenic conditions are  adverse effects 不良影响 that result from treatment of intervention 介入 by a physician.
+
+### 23.leuk/o white 白
+```
+leukocyte 白细胞 （leuk/o + cyte = leukocyte）
+erythrocyte 红细胞
+thrombocyte 血小板
+```
+
+### 24.log/o study 研究
+```
+dermatology 皮肤病学
+```
+
+### 25.nephr/o kidney 肾脏
+```
+nephritis 肾炎 (nephr/o + ritis = nephritis)
+nephrology 肾病学 （nephr/o + log + y = nephrology）
+```
+
+### 26.neur/o nerve 神经
+```
+neurology 神经学 (neur/o + log + y = neurology)
+```
+
+
+
+
+
+
+
+
+
+
+
+
 
 
